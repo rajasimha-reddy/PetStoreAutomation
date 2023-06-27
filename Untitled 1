@@ -1,0 +1,32 @@
+
+
+pre-requisites
+
+Step 1: Create Maven Project
+
+Step 2: Update pom.xml with required dependencies
+
+Step 3: Create folder structure
+
+---------------------------------------------
+
+Step 5: here we create Routes.java  ----> contain's URL
+
+Step 6: create UserEndPoint.java ----> CRUD Method Implementation
+
+--------------------
+
+Step 7: Create new test cases
+
+Step 7: Create data driven test cases
+		excel sheet data
+		ExcelUtility
+		DataProviders
+		
+Step 8: Generate Extent Reports
+		extent report utility
+		testng.xml file
+		
+Step 9: Add logs
+		log4j2 library / dependency
+		add log4j2.xml
